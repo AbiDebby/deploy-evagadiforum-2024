@@ -1,0 +1,37 @@
+{
+  "name": "evangadi-forum",
+  "version": "1.0.0",
+  "description": "A Q&A platform for Evangadi Family members where any member can ask and answer questions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImranDevHub/Evangadi-Forum.git"
+  },
+  "keywords": [
+    "Question",
+    "and",
+    "Answer",
+    "Evangadi",
+    "Evangadi",
+    "Forum"
+  ],
+  "author": "apr batch Group-2 Team-2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImranDevHub/Evangadi-Forum/issues"
+  },
+  "homepage": "https://github.com/ImranDevHub/Evangadi-Forum#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "http-status-codes": "^2.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.3",
+    "uuid": "^10.0.0"
+  }
+}
